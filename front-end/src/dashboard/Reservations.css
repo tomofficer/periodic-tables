@@ -1,0 +1,58 @@
+.reservations__card {
+  border: none;
+  background-color: white;
+  padding: 30px;
+  border-radius: 60px;
+  box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+}
+
+.reservations__text {
+  font-family: cursive;
+  color: teal;
+}
+
+.reservations__card-detail-text {
+  font-size: 25px;
+}
+
+.reservations__btn--seat {
+  background-color: teal;
+  font-family: arial;
+  color: white;
+  font-weight: 500;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  padding-left: 35px;
+  padding-top: 3px;
+  margin-bottom: 10px;
+}
+
+.reservations__btn--cancel {
+  background-color: #fa3e4ed5;
+  font-family: arial;
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 100px;
+  height: 30px;
+  padding-top: 3px;
+}
+
+.reservations__btn--edit {
+  font-family: arial;
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 100px;
+  height: 30px;
+  padding-top: 5px;
+  padding-left: 38px;
+  margin-right: 20px;
+  border-radius: 5px;
+  /* border-color: #fa3e4ed5; */
+  box-shadow: 0px 4px 40px rgba(235, 7, 7, 0.1);
+  color: #fa3e4ed5;
+}

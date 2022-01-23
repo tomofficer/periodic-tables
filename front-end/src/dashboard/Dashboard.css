@@ -1,0 +1,47 @@
+.dashboard__main-container {
+  background-color: white;
+}
+
+.dashboard__header-text {
+  margin-top: 25px;
+  margin-bottom: 20px;
+  font-family: cursive;
+  font-size: 50px;
+  color: teal;
+}
+
+.dashboard__text-sub-header {
+  color: teal;
+  font-family: cursive;
+  font-weight: 300;
+  font-size: 35px;
+}
+
+.dashboard__header-text--date {
+  font-family: cursive;
+  font-size: 25px;
+  color: teal;
+  padding-top: 20px;
+}
+
+.dashboard__btn-previous-next {
+  height: 40px;
+  width: 130px;
+  background-color: teal;
+  font-family: arial;
+  color: white;
+  font-weight: 400;
+  border-radius: 5px;
+  border: none;
+}
+
+.dashboard__btn-today {
+  width: 130px;
+  font-family: arial;
+  color: teal;
+  box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+  font-weight: 400;
+  border-radius: 5px;
+  border-color: teal;
+  border: none;
+}

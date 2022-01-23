@@ -1,0 +1,44 @@
+.tables__cards {
+  font-family: arial;
+  color: teal;
+  box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+  font-weight: 400;
+  border-radius: 10px;
+  border-color: teal;
+  border: none;
+}
+
+.tables__btn-delete {
+  background-color: #fa3e4ed5;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 100px;
+  height: 30px;
+}
+
+.tables__btn--finish {
+  height: 30px;
+  width: 100px;
+  background-color: teal;
+  font-family: arial;
+  font-size: 18px;
+  color: white;
+  font-weight: 400;
+  border-radius: 5px;
+  border: none;
+}
+
+.tables__btn--cancel {
+  background-color: white;
+  font-family: arial;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
+  /* border-color: #fa3e4ed5; */
+  box-shadow: 0px 4px 40px rgba(235, 7, 7, 0.1);
+  color: #fa3e4ed5;
+  width: 100px;
+  height: 30px;
+  margin-left: 20px;
+}
